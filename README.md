@@ -5,6 +5,12 @@ Tutorial Faster to Syncronize To Latest Block
 Big Very Thanks You Very Much For ChainFlip Team For Give me a Chance Explore in the ChainFlip COmmunity
 And Here I Want To Share out about How To Faster Sync In ChainFlip
 
+
+ChainFlip Data
+```
+Total Block : 1433924
+Size Of Data 15Gb++
+```
 Note : Make Sure if u have stoped ur node first 
 # sudo systemctl stop chainflip-node
 
