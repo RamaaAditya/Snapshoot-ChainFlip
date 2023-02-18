@@ -6,7 +6,7 @@ Big Very Thanks You Very Much For ChainFlip Team For Give me a Chance Explore in
 And Here I Want To Share out about How To Faster Sync In ChainFlip
 
 
-ChainFlip Data
+Data Block Of ChainFlip 
 ```
 Total Block : 1433924
 Size Of Data 15Gb++
