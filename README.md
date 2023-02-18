@@ -15,18 +15,21 @@ git clone ....
 ```
 
 ## Step 2
+Make Sure You Have Remode db folder you have create before
 ``` 
 cd /etc/chainflip/chaindata/chains/Chainflip-Perseverance/
 sudo rm -rf db
 cd
 ```
 
-## Step 3
+## Step 3 
+Extract database file of chainflip
 ``` 
 tar -xvzf chainflip.tar.gz 
 ```
 
 ## Step 4
+copy db file to folder Chainflip-Perseverance
 ```
 cp -r db /etc/chainflip/chaindata/chains/Chainflip-Perseverance/
 ```
