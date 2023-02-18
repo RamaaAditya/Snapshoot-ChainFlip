@@ -44,3 +44,9 @@ cp -r db /etc/chainflip/chaindata/chains/Chainflip-Perseverance/
 ```
 
 # Step 5
+Start The ChainFlip Node
+```
+sudo systemctl start chainflip-node
+```
+Check The Logs
+-> tail -f /var/log/chainflip-node.log
