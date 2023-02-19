@@ -33,7 +33,7 @@ cd
 # Step 3
 Empety The Old Logs and Recreate New Logs 
 ``` 
-cd /var/log/chainflip-engine.log
+cd /var/log/
 sudo rm -rf chainflip-engine.log
 sudo cat chainflip-engine.log
 cd
