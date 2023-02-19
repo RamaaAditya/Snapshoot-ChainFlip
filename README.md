@@ -12,7 +12,9 @@ Total Block : 1433924
 Size Of Data 15Gb++
 ```
 Note : Make Sure if u have stoped ur node first 
-# sudo systemctl stop chainflip-node
+```
+sudo systemctl stop chainflip-node && sudo systemctl stop chainflip-engine 
+```
 
 # Step 1 
 ``` 
